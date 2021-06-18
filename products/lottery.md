@@ -39,10 +39,6 @@ Each full lottery session is completed every 12 hours \(2 per day\), with the ti
 
 3 PM - 2 AM \(UTC\)
 
-3 AM - 2 PM \(UTC\) - **20,000 BECO tokens are injected into this lottery draw**
-
-3 PM - 2 AM \(UTC\)
-
 An example of a lottery session starting at 3 AM \(UTC\) is as below:
 
 ### **Phase 1 - Buy tickets \(3 AM to 2 PM\)**
