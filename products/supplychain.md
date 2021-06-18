@@ -10,9 +10,5 @@ Nft Supplychain is developed based on the [erc1155](https://eips.ethereum.org/EI
 
 Supply chain management made easy on becoswap. Make it easy for users to recognize your item
 
-### Features \(Updating\)
-
-### 
-
-
+## Features \(Updating\)
 

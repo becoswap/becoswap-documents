@@ -6,7 +6,7 @@ For example, the harvest lockup of the BECO-USDT farm is ~~**2 hours**~~ **0 hou
 
 You can check the harvest lockup on each farm card.
 
-![](../.gitbook/assets/screenshot-from-2021-06-02-13-05-03.png)
+![](https://github.com/becoswap/becoswap-documents/tree/bc81328ba4367ad55f2a1e9192e95a432bb36b16/.gitbook/assets/screenshot-from-2021-06-02-13-05-03.png)
 
 {% hint style="success" %}
 To clarify, the harvest lockup only locks users' farming rewards. The tokens and LP tokens staked in farms can be withdrawn anytime.

@@ -26,3 +26,8 @@
 * 1% for marketing to ensure essential growth of the project
 * 2% for buying potential projects' token to create more farming pools
 * 5% for buying back BECO for burning
+
+## BECO Token Emission
+
+![](../.gitbook/assets/beco-token-emission.png)
+

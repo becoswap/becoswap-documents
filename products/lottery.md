@@ -1,7 +1,5 @@
 # Lottery
 
-
-
 The Becoswap Lottery game works as you'd expect a lottery to work. Users can purchase a ticket with their BECO between draws. The ticket will give them one entry into the lottery. After the winning numbers are drawn, if your ticket's numbers match the drawn numbers, you'll win stacks of BECO!
 
 ## **Specifics:**
@@ -37,13 +35,13 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 
 Each full lottery session is completed every 12 hours \(2 per day\), with the timings for each as below:
 
-3 AM  - 2 PM \(UTC\)
+3 AM - 2 PM \(UTC\)
 
-3 PM - 2 AM \(UTC\) 
+3 PM - 2 AM \(UTC\)
 
-3 AM  - 2 PM \(UTC\)  - **20,000 BECO tokens are injected into this lottery draw**
+3 AM - 2 PM \(UTC\) - **20,000 BECO tokens are injected into this lottery draw**
 
-3 PM - 2 AM \(UTC\) 
+3 PM - 2 AM \(UTC\)
 
 An example of a lottery session starting at 3 AM \(UTC\) is as below:
 

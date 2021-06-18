@@ -4,9 +4,9 @@ description: Marketplace
 
 # Roadmap
 
-You can see, we are working day and night. It not that easy. We strive to bring out the safest products for you. Please sympathize if there is a delay somewhere. 
+You can see, we are working day and night. It not that easy. We strive to bring out the safest products for you. Please sympathize if there is a delay somewhere.
 
-### Launch
+## Launch
 
 * [x] Frontend
 * [x] Exchange
@@ -17,7 +17,7 @@ You can see, we are working day and night. It not that easy. We strive to bring 
 * [ ] Listing Price
 * [ ] Contests
 
-### Other Products
+## Other Products
 
 * [ ] Payment Gateway
 * [ ] Game Platform
@@ -26,6 +26,4 @@ You can see, we are working day and night. It not that easy. We strive to bring 
 * [ ] Stocks Trading
 * [ ] Voting
 * [ ] Cross Chain Bridge
-
-
 

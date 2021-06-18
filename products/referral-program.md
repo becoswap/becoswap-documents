@@ -8,5 +8,3 @@ An on-chain referral program has been implemented to incentivize users to invite
 4. Every time your friends get rewards from farms, you will receive referral commissions automatically
 5. The current referral commission rate is **1%**
 
-
-
