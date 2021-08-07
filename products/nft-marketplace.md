@@ -45,7 +45,7 @@ After a NFT is listed on BecoSwap NFT marketplace, it can be available for other
 
 ![Bidding and Buying a NFT](../.gitbook/assets/image%20%284%29.png)
 
-You can also see the bidding list and transaction history in this details page. Please note that part of the paid BECO tokens may be return to the original authors as their copyright fee, and the other part will be burnt forever.
+You can also see the bidding list and transaction history in this details page. Please note that part of the paid BECO tokens may be return to the original authors as their copyright fee, and the other part will be used for operational purposes of Beco ecosystem.
 
 We will do more improvements to the NFT supermarket and bring more fun things in the near future. Stay tuned!
 
