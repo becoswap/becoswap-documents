@@ -17,7 +17,7 @@
 * [Becochain](products/becochain.md)
 * [Cross Chain](products/cross-chain-bridge.md)
 * [Launchpad](products/launchpad.md)
-* [Nft Marketplace](products/nft-marketplace.md)
+* [NFT Marketplace](products/nft-marketplace.md)
 * [NFT Supply Chain](products/supplychain.md)
 * [Stocks](products/stocks.md)
 * [Games](products/games.md)
