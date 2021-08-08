@@ -27,7 +27,7 @@ After creating a profile, users can upload NFT for bidding and selling. They can
 
 ![The user profile page](../.gitbook/assets/image.png)
 
-The original authors will deserve their life-time copyright fee \(maximum 50% of the sale price\) every time their NFTs is transferred on BecoSwap marketplace. Users can create NFTs from their images, GIFs, music and video files with **50 KAI** **creation fee** for each. This creation fee can be adjusted, depends on the KAI price on market.
+The original authors will deserve their life-time copyright fee \(maximum 50% of the sale price\) every time their NFTs are transferred on BecoSwap marketplace. Users can create NFTs from their images, GIFs, music and video files with **50 KAI** **creation fee** for each. This creation fee can be adjusted, depends on the KAI price on market.
 
 ![Upload your own media file to create the NFT](../.gitbook/assets/image%20%288%29.png)
 
@@ -45,7 +45,7 @@ After a NFT is listed on BecoSwap NFT marketplace, it can be available for other
 
 ![Bidding and Buying a NFT](../.gitbook/assets/image%20%284%29.png)
 
-You can also see the bidding list and transaction history in this details page. Please note that part of the paid BECO tokens may be return to the original authors as their copyright fee, and 5% of the paid BECO tokens  will be used for operational purposes of Beco ecosystem too.
+You can also see the bidding list and transaction history in this details page. Please note that part of the paid BECO tokens may be return to the original authors as their copyright fee, and 5% of the paid BECO tokens will be used for operational purposes of Beco ecosystem too.
 
 We will do more improvements to the NFT supermarket and bring more fun things in the near future. Stay tuned!
 
