@@ -37,7 +37,7 @@ You will be able to vote for your favorite artworks and push them on top of the 
 
 ![Approve and vote for your favorite NFTs](../.gitbook/assets/image%20%287%29.png)
 
-Owners of an NFT artwork will get half of the BECO voted, and BecoSwap will get the remaining part for operational use. The more votes an artwork has, the higher it ranks on the homepage. And we have also added ranking by votes in the NFT marketplace.
+Owners of an NFT artwork will get half of the BECO voted, and BecoSwap will get the remaining part for operational use. The more votes an artwork has, the higher it ranks on the homepage. And we have also added ranking by votes in the NFT marketplace. The BECO voting amount is separated and transferred to original authors right after the vote is sent.
 
 ## Buying and Bidding
 
