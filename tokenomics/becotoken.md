@@ -21,4 +21,4 @@
 
 ## BECO Token Emission
 
-![](../.gitbook/assets/beco-token-emission.png)
+![](<../.gitbook/assets/Screenshot from 2021-11-07 11-00-43.png>)
