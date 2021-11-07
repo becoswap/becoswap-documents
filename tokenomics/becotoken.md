@@ -22,3 +22,19 @@
 ## BECO Token Emission
 
 ![](<../.gitbook/assets/Screenshot from 2021-11-07 11-00-43.png>)
+
+
+
+## **Other Deflationary Mechanics** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+
+
+
+As well as the above, BECO is also burned in the following ways:
+
+* **0.05%** of every trade made on BecoSwap
+* **100%** of BECO sent to the Dev address
+* **100%** of BECO performance fees from IFOs
+* **100%** of BECO spent on Profile Creation and NFT minting
+* **20%** of BECO spent on lottery tickets
+* **2%** of every yield harvest in the Auto BECO Pool
+* **5%** of every NFT sale on the NFT Market is used to buy BECO for burning
