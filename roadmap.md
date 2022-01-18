@@ -4,8 +4,6 @@ description: Marketplace
 
 # Roadmap
 
-You can see, we are working day and night. It not that easy. We strive to bring out the safest products for you. Please sympathize if there is a delay somewhere.
-
 ## Launch
 
 * [x] Frontend
@@ -16,3 +14,13 @@ You can see, we are working day and night. It not that easy. We strive to bring 
 * [x] NFT Marketplace
 * [x] Listing Price
 * [x] Contests
+
+## 2022
+
+* [ ] NFT LaunchPad
+* [ ] NFT Marketplace V2
+* [ ] BecoChain (Kardiachain Layer 2)
+* [ ] NFT Creator Platform
+* [ ] GameFI Platform
+* [ ] NFT Rent Market
+
