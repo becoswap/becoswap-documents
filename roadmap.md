@@ -20,7 +20,7 @@ description: Marketplace
 * [ ] NFT LaunchPad
 * [ ] NFT Marketplace V2
 * [ ] BecoChain (Kardiachain Layer 2)
-* [ ] NFT Creator Platform
+* [ ] NFT Builder Platform
 * [ ] GameFI Platform
 * [ ] NFT Rent Market
 
