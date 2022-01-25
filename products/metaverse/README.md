@@ -1,3 +1,3 @@
 # Metaverse
 
-Updating
+Build and earn everything together
