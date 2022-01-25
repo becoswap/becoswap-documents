@@ -5,24 +5,24 @@
 
 ## Products
 
-* [Exchange](products/exchange/README.md)
+* [💱 Exchange](products/exchange/README.md)
   * [Swap](products/exchange/swap.md)
   * [Liquidity Pools](products/exchange/liquidity-pools.md)
-* [Launchpad](products/launchpad/README.md)
+* [🛩 Launchpad](products/launchpad/README.md)
   * [NFT Launchpad](products/launchpad/nft-launchpad.md)
-* [NFT Marketplace](products/nft-marketplace/README.md)
+* [™ NFT Marketplace](products/nft-marketplace/README.md)
   * [NFT Rent Market](products/nft-marketplace/nft-rent-market.md)
-* [Metaverse](products/metaverse/README.md)
-  * [Metaverse SDK](products/metaverse/metaverse-sdk.md)
-  * [GameFi](products/metaverse/games.md)
-  * [NFT Builder](products/metaverse/nft-builder.md)
-* [BecoChain](products/becochain/README.md)
+* [🌍 Metaverse](products/metaverse/README.md)
+  * [⛸ Metaverse SDK](products/metaverse/metaverse-sdk.md)
+  * [🎮 GameFi](products/metaverse/games.md)
+  * [🛠 NFT Builder](products/metaverse/nft-builder.md)
+* [⛓ BecoChain](products/becochain/README.md)
   * [Introduction](products/becochain/introduction.md)
   * [Developer](products/becochain/developer.md)
 * [Vaults](https://docs.sleepearn.finance)
-* [Voting](products/voting.md)
-* [Referral Program](products/referral-program.md)
-* [Lottery](products/lottery.md)
+* [📒 Voting](products/voting.md)
+* [🧙♂ Referral Program](products/referral-program.md)
+* [🍷 Lottery](products/lottery.md)
 
 ## Tokenomics
 
