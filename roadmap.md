@@ -23,4 +23,5 @@ description: Marketplace
 * [ ] NFT Builder
 * [ ] GameFI Platform
 * [ ] NFT Rent Market
+* [ ] Metaverse SDK
 
