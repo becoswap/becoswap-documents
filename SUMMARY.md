@@ -19,10 +19,13 @@
 * [⛓ BecoChain](products/becochain/README.md)
   * [Introduction](products/becochain/introduction.md)
   * [Developer](products/becochain/developer.md)
-* [Vaults](https://docs.sleepearn.finance)
+  * [Sharding](products/becochain/sharding.md)
+  * [Proof Of Stake](products/becochain/proof-of-stake.md)
+  * [Validator](products/becochain/validator.md)
 * [📒 Voting](products/voting.md)
 * [🧙♂ Referral Program](products/referral-program.md)
 * [🍷 Lottery](products/lottery.md)
+* [💝 Vaults](https://docs.sleepearn.finance)
 
 ## Tokenomics
 
