@@ -24,4 +24,5 @@ description: Marketplace
 * [ ] GameFI Platform
 * [ ] NFT Rent Market
 * [ ] Metaverse SDK
+* [ ] Vaults
 
