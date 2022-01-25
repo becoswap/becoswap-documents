@@ -25,7 +25,7 @@
 * [📒 Voting](products/voting.md)
 * [🧙♂ Referral Program](products/referral-program.md)
 * [🍷 Lottery](products/lottery.md)
-* [💝 Vaults](https://docs.sleepearn.finance)
+* [⚛ Vaults](https://docs.sleepearn.finance)
 
 ## Tokenomics
 
