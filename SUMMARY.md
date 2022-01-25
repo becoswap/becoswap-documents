@@ -1,12 +1,7 @@
 # Table of contents
 
 * [BecoSwap Intro](README.md)
-* [FAQ](faq.md)
 * [Roadmap](roadmap.md)
-
-## Contact Us
-
-* [Customer Support](contact-us/customer-support.md)
 
 ## Products
 
