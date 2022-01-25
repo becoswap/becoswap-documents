@@ -24,6 +24,7 @@
 * [BecoChain](products/becochain/README.md)
   * [Introduction](products/becochain/introduction.md)
   * [Developer](products/becochain/developer.md)
+* [Vaults](https://docs.sleepearn.finance)
 * [Voting](products/voting.md)
 * [Referral Program](products/referral-program.md)
 * [Lottery](products/lottery.md)
@@ -36,10 +37,10 @@
 ## Community / Social
 
 * [Teams](community-social/teams.md)
-* [Twitter](community-social/untitled.md)
-* [Telegram](community-social/discord.md)
-* [Blog (Medium)](community-social/blog-medium.md)
+* [Twitter](https://twitter.com/beco\_swap)
+* [Blog (Medium)](https://medium.com/@becoswap)
+* [Telegram](https://t.me/beco\_swap)
 
 ## Code
 
-* [Github](code/github.md)
+* [Github](https://github.com/becoswap)
