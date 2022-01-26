@@ -16,7 +16,7 @@
   * [⛸ Metaverse SDK](products/metaverse/metaverse-sdk.md)
   * [🎮 GameFi](products/metaverse/games.md)
   * [🛠 NFT Builder](products/metaverse/nft-builder.md)
-  * [NFT Logistics](products/metaverse/nft-logistics.md)
+  * [🛥 NFT Logistics](products/metaverse/nft-logistics.md)
 * [⛓ BecoChain](products/becochain/README.md)
   * [Introduction](products/becochain/introduction.md)
   * [Developer](products/becochain/developer.md)
