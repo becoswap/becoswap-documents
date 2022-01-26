@@ -26,6 +26,7 @@ description: Marketplace
 * [ ] Metaverse SDK
 * [ ] Vaults
 * [ ] Bond Market
+* [ ] Cross Chain
 
 ## Disclaimer
 
