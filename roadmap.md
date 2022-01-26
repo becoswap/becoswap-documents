@@ -25,6 +25,7 @@ description: Marketplace
 * [ ] NFT Rent Market
 * [ ] Metaverse SDK
 * [ ] Vaults
+* [ ] Bond Market
 
 ## Disclaimer
 
