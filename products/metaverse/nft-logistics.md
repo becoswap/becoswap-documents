@@ -1,5 +1,5 @@
 ---
-description: Easy to use manage,secure, transparant your product,
+description: Easy to manage, secure, transparent your products.
 ---
 
 # 🛥 NFT Logistics
