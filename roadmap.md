@@ -12,18 +12,7 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-## Launch
-
-* [x] Frontend
-* [x] Exchange
-* [x] Audits ([Techrate](https://github.com/TechRate/Smart-Contract-Audits/blob/main/Becoswap.pdf))
-* [x] Lottery
-* [x] Launchpad
-* [x] NFT Marketplace
-* [x] Listing Price
-* [x] Contests
-
-## 2022
+### Ongoing
 
 * [ ] NFT LaunchPad
 * [ ] NFT Marketplace V2
